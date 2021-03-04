@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36053" started-at="2021-03-03T21:15:23 IST" finished-at="2021-03-03T21:15:59 IST">
+    <groups>
+    </groups>
+    <test name="Test Urban Cladder" duration-ms="36053" started-at="2021-03-03T21:15:23 IST" finished-at="2021-03-03T21:15:59 IST">
+      <class name="com.DisplayBookshelves.module.TestUrbanLadder">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.DisplayBookshelves.module.TestUrbanLadder@12028586]" name="setUp" is-config="true" duration-ms="6387" started-at="2021-03-03T21:15:23 IST" finished-at="2021-03-03T21:15:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="displayDetailsOfFirstThreeBookshelves()[pri:0, instance:com.DisplayBookshelves.module.TestUrbanLadder@12028586]" name="displayDetailsOfFirstThreeBookshelves" duration-ms="22021" started-at="2021-03-03T21:15:29 IST" finished-at="2021-03-03T21:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayDetailsOfFirstThreeBookshelves -->
+        <test-method status="PASS" signature="collections_SubMenuItemsDisplay()[pri:1, instance:com.DisplayBookshelves.module.TestUrbanLadder@12028586]" name="collections_SubMenuItemsDisplay" duration-ms="2159" started-at="2021-03-03T21:15:51 IST" finished-at="2021-03-03T21:15:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collections_SubMenuItemsDisplay -->
+        <test-method status="PASS" signature="giftCards_WithInvalidDetails()[pri:2, instance:com.DisplayBookshelves.module.TestUrbanLadder@12028586]" name="giftCards_WithInvalidDetails" duration-ms="4164" started-at="2021-03-03T21:15:54 IST" finished-at="2021-03-03T21:15:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftCards_WithInvalidDetails -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.DisplayBookshelves.module.TestUrbanLadder@12028586]" name="afterTest" is-config="true" duration-ms="1276" started-at="2021-03-03T21:15:58 IST" finished-at="2021-03-03T21:15:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.DisplayBookshelves.module.TestUrbanLadder -->
+    </test> <!-- Test Urban Cladder -->
+  </suite> <!-- Suite -->
+</testng-results>

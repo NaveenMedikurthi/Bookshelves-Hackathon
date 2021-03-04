@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test Urban Cladder">
+    <classes>
+      <class name="com.DisplayBookshelves.module.TestUrbanLadder"/>
+      <!-- class name="com.DisplayBookshelves.module.TestingOnSeleniumGrid"/ -->
+      <!-- Pre-requirements for selenium grid - Selenium Grid Hub and Node should be active -->
+    </classes>
+  </test> <!-- Test Urban Cladder -->
+</suite> <!-- Suite -->
